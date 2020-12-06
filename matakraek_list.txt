@@ -1,0 +1,18 @@
+!
+! Title: Mata - Kraek list
+! Version: 1.0
+!
+sports.ru#$?#.videonow-section { remove: true }
+sports.ru##.material-list__item:has(span.content-label[style='color: #964BA0;'])
+sports.ru##.aside-news-list__item:has(span.aside-news-list__advert)
+sports.ru##section[data-analytics-category='news-cybersport']
+sports.ru##section[data-analytics-category='news-bet']
+sports.ru##section[data-analytics-category='news-others']
+sports.ru##section[data-analytics-category='news-tennis']
+sports.ru##section[data-analytics-category='news-biathlon']
+sports.ru##section[data-analytics-category='news-basketball']
+sports.ru##section[data-analytics-category='news-hockey']
+sports.ru##.teaser-group:not(.teaser-group__handle:has([data-sportid='208']))
+sports.ru##.teaser-group__handle:not([data-sportid='208']):upward(.teaser-group)
+sports.ru##.social-links
+sports.ru##.nav-line-wrapper--bottom
